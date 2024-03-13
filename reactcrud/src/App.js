@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import { EmployeeData } from './EmployeeData';
 import React ,{useEffect, useState}from 'react';
